@@ -6,7 +6,7 @@ public class EjemploGit {
 		// TODO Esbozo de método generado automáticamente
 			System.out.println("hola a todos soy carlos");
 			
-			String j = " carlos";
+			String j = " des";
 			
 			System.out.println(j);
 	}
